@@ -1,0 +1,37 @@
+body{
+    background-image: url(https://wallpapers.com/images/hd/red-and-blue-calculators-yxm0myfzuym67431.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+.cal{
+    border: 2px solid black;
+    border-width: 2px;
+    height: 185px;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    background-color: snow;
+    border-radius: 10px 10px 10px 10px;
+}
+h1{
+    text-align: center;
+    margin-top: -240px;
+    margin-left: -10px;
+}
+.align{
+    margin-left: 40px;
+}
+#t1{
+    margin-left: 15px;
+    border-radius: 7px 7px 7px 7px;
+}
+#t2{
+    margin-left: 5px;
+    border-radius: 7px 7px 7px 7px;
+}
+#t3{
+    margin-left: 19px;
+    border-radius: 7px 7px 7px 7px;
+    
+}
